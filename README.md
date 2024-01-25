@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="assets/Logo2.png" alt="Icon" width="192" />
+    <img src="logo.png" alt="Icon" width="192" />
     <br/>
     .WallpaperSearx
 </h3>
