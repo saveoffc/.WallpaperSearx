@@ -12,12 +12,6 @@
     <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" alt="Catppuccin Palette" width="400" />
 </p>
 
-<div align="center">
-
-[![Discord](https://img.shields.io/discord/1198201133617917962?style=for-the-badge&logo=discord&logoColor=d9e0ee&label=chat&labelColor=302d41&color=b7bdf8)](https://discord.com/invite/K2NKBXj5XP)
-
-</div>
-
 ---
 
 <div align="center">
